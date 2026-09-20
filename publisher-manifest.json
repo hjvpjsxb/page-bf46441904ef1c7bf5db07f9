@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "3625b3c283a97a96f8214e66",
+  "owner": "hjvpjsxb",
+  "repo": "page-bf46441904ef1c7bf5db07f9",
+  "title": "渡口(Dukou)",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "bf46441904ef1c7bf5db07f9",
+      "a": "渡口(Dukou)",
+      "b": "机场官网线路发布页",
+      "entity": "渡口(Dukou)",
+      "brand": "渡口(Dukou)",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "47374a0c34ed6ba6bd9defc99287b3ecb92d350d90b0765e46928a520e2980ad",
+      "content": {
+        "primary_entity": "渡口(Dukou)",
+        "keyword1": "渡口(Dukou)",
+        "keyword2": "机场官网线路发布页",
+        "content": {
+          "AI_CLIENTS_INTRO": "渡口订阅支持导入主流客户端，按设备系统选择对应版本。",
+          "AI_CLIENTS_TITLE": "按设备选择客户端",
+          "AI_CLOSING_TEXT": "对照三档套餐的流量与设备数，选好周期后即可进入订阅配置。",
+          "AI_CLOSING_TITLE": "选渡口套餐，配置订阅",
+          "AI_DESCRIPTION": "，提供基础版、旗舰版与团队版三档订阅，月付与年付可选。基础版每月 100GB 流量、支持 3 台设备，适合轻度使用；旗舰版每月 300GB 流量、支持 5 台设备，并配置 IPLC 专线与优先工单；团队版每月 1000GB 流量、支持 20 台设备，可定制路由。订阅通过通用客户端导入，按设备类型选择版本并填写订阅地址即可开始使用。",
+          "AI_FAQ_ANSWER_1": "在套餐卡片中选择基础版、旗舰版或团队版，确认月付或年付后提交。基础版月付 ¥15、年付 ¥150；旗舰版月付 ¥35、年付 ¥350；团队版月付 ¥85、年付 ¥850。",
+          "AI_FAQ_ANSWER_2": "基础版支持 3 台设备，旗舰版支持 5 台，团队版支持 20 台。可按常用手机、电脑与平板数量选择，多设备家庭建议旗舰版起步。",
+          "AI_FAQ_ANSWER_3": "购买后在客户端中新建订阅，粘贴订阅地址并更新节点。若更新失败，检查订阅链接是否完整、网络是否可访问，或更换客户端版本重试。",
+          "AI_FAQ_ANSWER_4": "基础版月付 ¥15、年付 ¥150，旗舰版月付 ¥35、年付 ¥350，团队版月付 ¥85、年付 ¥850。年付相比月付总价更低，适合长期使用。",
+          "AI_FAQ_ANSWER_5": "流量用尽后可等待下个计费周期重置，或切换到更高档套餐补足额度。旗舰版与团队版提供更大流量池，团队版 1000GB 可覆盖多设备共享。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "如何选择渡口套餐？",
+          "AI_FAQ_QUESTION_2": "一台订阅可以同时在几台设备使用？",
+          "AI_FAQ_QUESTION_3": "订阅导入失败怎么办？",
+          "AI_FAQ_QUESTION_4": "月付和年付价格差多少？",
+          "AI_FAQ_QUESTION_5": "流量用尽后如何处理？",
+          "AI_FAQ_TITLE": "常见问题",
+          "AI_FEATURES_INTRO": "渡口套餐按流量、设备数与线路类型区分，方便按需选择。",
+          "AI_FEATURES_TITLE": "套餐与使用说明",
+          "AI_FEATURE_TEXT_1": "基础版适合轻度浏览，旗舰版 300GB 与 IPLC 专线兼顾流媒体和游戏，团队版 1000GB 覆盖多设备。",
+          "AI_FEATURE_TEXT_2": "基础版 3 台、旗舰版 5 台、团队版 20 台，按常用手机、电脑与平板数量匹配套餐。",
+          "AI_FEATURE_TEXT_3": "月付灵活试用，年付基础版 ¥150、旗舰版 ¥350、团队版 ¥850，长期使用总价更低。",
+          "AI_FEATURE_TITLE_1": "按流量选档",
+          "AI_FEATURE_TITLE_2": "设备数量匹配",
+          "AI_FEATURE_TITLE_3": "订阅周期灵活",
+          "AI_GUIDE_INTRO": "从套餐选择到订阅配置，三步完成渡口加速器设置。",
+          "AI_GUIDE_TITLE": "三步完成配置",
+          "AI_HERO_INTRO": "渡口(Dukou)提供三档海外加速订阅，覆盖 100GB 到 1000GB 流量与 3 到 20 台设备，支持流媒体与游戏加速场景，可按月付或年付选择。",
+          "AI_HERO_SUBTITLE": "渡口订阅，按需选择流量与设备",
+          "AI_HIGHLIGHT_1": "三档套餐覆盖不同流量",
+          "AI_HIGHLIGHT_2": "订阅按设备数灵活匹配",
+          "AI_HIGHLIGHT_3": "月付年付均可选择",
+          "AI_PLANS_INTRO": "基础版 100GB / 3 台，旗舰版 300GB / 5 台，团队版 1000GB / 20 台，年付分别为 ¥150、¥350、¥850。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_STEP_TEXT_1": "根据每月流量与同时在线设备数，在基础版、旗舰版、团队版中选择合适档位，并确定月付或年付周期。",
+          "AI_STEP_TEXT_2": "查看所选套餐的设备数限制与线路类型，确认手机、电脑或平板数量在支持范围内。",
+          "AI_STEP_TEXT_3": "按客户端文档新建订阅，填入订阅地址并更新节点，完成后即可开始使用加速服务。",
+          "AI_STEP_TITLE_1": "选择套餐",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_VISUAL_TITLE": "渡口订阅选择"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "jt6wu8ghb.cn",
+    "host": "jt6wu8ghb.cn"
+  },
+  "file_hashes": {
+    "index.html": "27c4ae0dc52d54dd13bf77953104c11afc1e74e73e5f66497e86ff9131820ee7",
+    "sitemap.xml": "05543c6a0faee8ccf8e103d3eec24a0191f3bbcd89e192938b7b2912b8a25c3d",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "7935addb8afa43441c17cac089ca18506055187410b579d37d8655a8caf478c9",
+    "robots.txt": "4e4a2ffeab4c2ee2adb69f4f791618be06617a2029b7ddcf18f9ad7f8cf31831",
+    "5f0cc108ae0e063c81ee19e4b0b0e41c.txt": "8b57ec7e93fa77437421aab3197ddfcb488f199486ffb1b2b9d15a7e8e6ecd73"
+  },
+  "revision": "a63292b05009339fed2731515ef856a3a15f5004feb3bd9c5f3f5846e524c28c"
+}
